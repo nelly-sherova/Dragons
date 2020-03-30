@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\My Projects\Dragon\bin\Debug\netcoreapp3.1\Dragon.exe
+C:\Users\ASUS\Desktop\My Projects\Dragon\bin\Debug\netcoreapp3.1\Dragon.deps.json
+C:\Users\ASUS\Desktop\My Projects\Dragon\bin\Debug\netcoreapp3.1\Dragon.runtimeconfig.json
+C:\Users\ASUS\Desktop\My Projects\Dragon\bin\Debug\netcoreapp3.1\Dragon.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\My Projects\Dragon\bin\Debug\netcoreapp3.1\Dragon.dll
+C:\Users\ASUS\Desktop\My Projects\Dragon\bin\Debug\netcoreapp3.1\Dragon.pdb
+C:\Users\ASUS\Desktop\My Projects\Dragon\obj\Debug\netcoreapp3.1\Dragon.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\My Projects\Dragon\obj\Debug\netcoreapp3.1\Dragon.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\My Projects\Dragon\obj\Debug\netcoreapp3.1\Dragon.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\My Projects\Dragon\obj\Debug\netcoreapp3.1\Dragon.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\My Projects\Dragon\obj\Debug\netcoreapp3.1\Dragon.dll
+C:\Users\ASUS\Desktop\My Projects\Dragon\obj\Debug\netcoreapp3.1\Dragon.pdb
+C:\Users\ASUS\Desktop\My Projects\Dragon\obj\Debug\netcoreapp3.1\Dragon.genruntimeconfig.cache
